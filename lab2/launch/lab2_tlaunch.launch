@@ -1,0 +1,7 @@
+<launch>
+
+    <node pkg="lab2" type="report.py" name="three_three_reporting"/>
+
+    <node pkg="lab2" type="fig8.py" name="figure_eight"/>
+
+</launch>
